@@ -3,7 +3,7 @@ package com.cinestar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+/* Local*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
