@@ -45,10 +45,11 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Correo electrónico"
+                    android:layout_marginRight="10dp"
                     android:background="@color/trasnparente"
+                    android:hint="Correo electrónico"
                     android:inputType="textEmailAddress"
-                    android:layout_marginRight="10dp"/>
+                    tools:ignore="TouchTargetSizeCheck" />
             </com.google.android.material.textfield.TextInputLayout>
 
         </LinearLayout>
@@ -73,10 +74,11 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Contraseña"
+                    android:layout_marginRight="10dp"
                     android:background="@color/trasnparente"
+                    android:hint="Contraseña"
                     android:inputType="text"
-                    android:layout_marginRight="10dp"/>
+                    tools:ignore="TouchTargetSizeCheck" />
             </com.google.android.material.textfield.TextInputLayout>
 
         </LinearLayout>
