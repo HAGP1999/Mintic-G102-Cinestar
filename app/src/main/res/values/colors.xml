@@ -8,5 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="morado">#570467</color>
-    <color name="trasnparente">@android:color/transparent</color>
+    <color name="trasnparente">@android:color/transparent</color>/*Transparente*/
 </resources>
