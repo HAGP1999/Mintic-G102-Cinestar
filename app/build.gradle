@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.cinestarplus'
+    namespace 'com.cinestar'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.cinestarplus"
+        applicationId "com.cinestar"
         minSdk 21
         targetSdk 32
         versionCode 1
